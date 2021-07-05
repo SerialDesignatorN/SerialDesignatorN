@@ -9,18 +9,17 @@
 </p> -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kkanekii" alt="kkanekii"/> </p>
 
--   🤗 I'm an Advanced designer and a new developer!
+-   🤗 I'm an junior developer!*
 -   🔭 I'm currently working on my Competitive Coding Skills.
 -   🌱 I'm currently learning _React.js_ 
--   👯 I'm looking to collaborate on Open Sourced Projects on _Web Devlopment_ and _Python_ 🐍 related Projects.
--   💬 Ask me about JavaScript and Python.
+-   💬 Ask me about JavaScript, C#, Java, HTML.
 -   📫 How to reach me: 
     
-    - <a href="mailto:jksheth46@gmail.com">Email</a>
+    - <a href="mailto:zeanfender11@gmail.com">Email</a>
 
 ### About Me
 
-I am working on my **Data Structures** and **Algorithms**. My interest lies in **Data Science**, **Javascript**, **Web Development** and **GUI**. I aim to be an open-source contributor.
+I am working on my **Projects** and **development software**. My interest lies in **Javascript**, **Web Development**, **Desktop Development with C# and .NET**.
 
 <!-- I have the **attitude** of a learner, the **courage** of an entrepreneur and the **thinking** of an optimist, engraved inside me. I wish to be a leader in my community of people and have an *innate desire* to contribute to **environment** and **society**. -->
 
@@ -30,15 +29,15 @@ Currently, aim is to become a globally competent individual with **programming s
 
 <p align="center">
 
-<img src="https://metrics.lecoq.io/kkanekii" alt="Github Metrics">
+<img src="https://metrics.lecoq.io/zeankundev" alt="Github Metrics">
 
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=tusharnankani" alt="Github Streak Stats"> -->
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeankundev" alt="Github Streak Stats"> -->
 
 </p>
 
-<!--<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kkanekii_icons=true" alt="kkanekii" />-->
+<!--<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=zeankundev_icons=true" alt="kkanekii" />-->
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkanekii&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/kushal98?tab=repositories)-->
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeankundev&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/kushal98?tab=repositories)-->
 
 <!--
 ## Some Of My Projects
@@ -66,8 +65,9 @@ Currently, aim is to become a globally competent individual with **programming s
 Connect with me<img src="Assets/Handshake.gif" height="32px">
 </h2>
 
- [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/kkanekii) [<img src="https://github.com/kkanekii/kkanekii/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:jksheth46@gmail.com) |
+ [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/zeankundev) [<img src="https://github.com/kkanekii/kkanekii/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:zeanfender11@gmail.com) |
 
 </div>
 
 <br>
+<small>* actually im 13</small>
