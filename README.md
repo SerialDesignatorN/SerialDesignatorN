@@ -16,6 +16,7 @@
 -   📫 How to reach me: 
     
     - <a href="mailto:zeanfender11@gmail.com">Email</a>
+    - <a href="https://discord.gg/pbYzGWF9Q4">Discord</a>
 
 ### About Me
 
