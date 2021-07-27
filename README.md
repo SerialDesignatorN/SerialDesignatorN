@@ -1,4 +1,4 @@
-<!-- <img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/Hi.gif" alt = "hi" width="40px" height="40px"> -->
+[<img src="Assets/octocat.png" alt = "octocat" title="my octocat">](https://myoctocat.com/build-your-octocat/)
 
 <!--<h1 align="center"> <a href="https://tusharnankani.github.io/about/" ><img src="Assets/portfolio.gh.png" alt="about-ss"> </a>--> 
  
