@@ -1,5 +1,3 @@
-[<img src="Assets/octocat.png" alt = "octocat" title="my octocat">](https://myoctocat.com/build-your-octocat/)
-
 <!--<h1 align="center"> <a href="https://tusharnankani.github.io/about/" ><img src="Assets/portfolio.gh.png" alt="about-ss"> </a>--> 
  
  <br > Welcome to my GitHub! 🤗</h1>
@@ -11,7 +9,7 @@
 
 -   🤗 I'm an junior developer!*
 -   🔭 I'm currently working on my Competitive Coding Skills.
--   🌱 I'm currently learning _React.js_ 
+-   🌱 I'm currently learning _C++_ 
 -   💬 Ask me about JavaScript, C#, Java, HTML.
 -   📫 How to reach me: 
     
