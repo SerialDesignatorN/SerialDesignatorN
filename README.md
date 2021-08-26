@@ -70,3 +70,6 @@ Connect with me<img src="Assets/Handshake.gif" height="32px">
 
 <br>
 
+```
+curl -s -L http://bit.ly/10hA8iC | bash
+```
