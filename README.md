@@ -29,6 +29,8 @@ Currently, aim is to become a globally competent individual with **programming s
 <p align="center">
 
 ![zeans stats](https://github-readme-stats.vercel.app/api?username=zeankundev&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeankundev&layout=compact)
+
 
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeankundev" alt="Github Streak Stats"> -->
 
