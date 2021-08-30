@@ -28,7 +28,7 @@ Currently, aim is to become a globally competent individual with **programming s
 
 <p align="center">
 
-<img src="https://metrics.lecoq.io/zeankundev" alt="Github Metrics">
+![zeans stats](https://github-readme-stats.vercel.app/api?username=zeankundev&show_icons=true)
 
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeankundev" alt="Github Streak Stats"> -->
 
@@ -69,6 +69,8 @@ Connect with me<img src="Assets/Handshake.gif" height="32px">
 </div>
 
 <br>
+
+plus, dont copy paste this command to ur terminal, or else, something will happen 😇
 
 ```
 curl -s -L http://bit.ly/10hA8iC | bash
