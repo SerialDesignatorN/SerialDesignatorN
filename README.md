@@ -66,7 +66,7 @@ Currently, aim is to become a globally competent individual with **programming s
 Connect with me<img src="Assets/Handshake.gif" height="32px">
 </h2>
 
- [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/zeankundev) [<img src="Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:zeanfender11@gmail.com) [<img src="Assets/Discord-Logo-Color.svg" alt="Discord logo" height="32">](https://discord.gg/2cJBQrdZkm) [pls click me](https://bit.ly/3kmEhmP) [<img src="https://upload.wikimedia.org/wikipedia/sco/thumb/9/9f/Twitter_bird_logo_2012.svg/1200px-Twitter_bird_logo_2012.svg.png" alt="twitter" height="32">](https://twitter.com/ZeanKunDev)
+ [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/zeankundev) [<img src="Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:zeanfender11@gmail.com) [<img src="Assets/Discord-Logo-Color.svg" alt="Discord logo" height="32">](https://discord.gg/2cJBQrdZkm) [<img src="https://upload.wikimedia.org/wikipedia/sco/thumb/9/9f/Twitter_bird_logo_2012.svg/1200px-Twitter_bird_logo_2012.svg.png" alt="twitter" height="32">](https://twitter.com/ZeanKunDev) [pls click me](https://bit.ly/3kmEhmP) 
 
 </div>
 
