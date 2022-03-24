@@ -7,10 +7,10 @@
 </p> -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zeankundev" alt="kkanekii"/> </p>
 
--   🤗 I'm an junior developer!*
+-   🤗 I'm an junior developer!
 -   🔭 I'm currently working on my Competitive Coding Skills.
--   🌱 I'm currently learning _C++_ 
--   💬 Ask me about JavaScript, C#, Java, HTML.
+-   🌱 I'm currently learning _C++ and React Native_ 
+-   💬 Ask me about JavaScript, C#, Java, React.js, HTML.
 -   📫 How to reach me: 
     
     - <a href="mailto:zeanfender11@gmail.com">Email</a>
@@ -18,7 +18,7 @@
 
 ### About Me
 
-I am working on my **Projects** and **development software**. My interest lies in **Javascript**, **Web Development**, **Desktop Development with C# and .NET**.
+I am working on my **Projects** and **development software**. My interest lies in **Javascript**, **Web Development**, **App Development with React.js** **Desktop Development with C# and .NET**.
 
 <!-- I have the **attitude** of a learner, the **courage** of an entrepreneur and the **thinking** of an optimist, engraved inside me. I wish to be a leader in my community of people and have an *innate desire* to contribute to **environment** and **society**. -->
 
@@ -40,24 +40,26 @@ Currently, aim is to become a globally competent individual with **programming s
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeankundev&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/kushal98?tab=repositories)-->
 
-<!--
 ## Some Of My Projects
 <p align="center">
-<a href="https://github.com/tusharnankani/TSECHackathon">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=kkanekii&repo=TSECHackathon" />
+<a href="https://github.com/zeankundev/suside">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=zeankundev&repo=suside" />
 </a>
-<a href="https://github.com/tusharnankani/AnalogClock">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=kkanekii&repo=AnalogClock"/>
-</a>
-<a href="https://github.com/tusharnankani/ToDoList">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=kkanekii&repo=ToDoList"/>
-</a>
-<a href="https://github.com/tusharnankani/GamesBuiltUsingPython">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=kkanekii&repo=GamesBuiltUsingPython"/>
+<a href="https://github.com/zeankundev/NextPay">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=zeankundev&repo=NextPay"/>
 </a>
 </p>
--->
 
+
+<br>
+<br>
+
+
+
+
+<br>
+<br>
+<br>
 <br>
 
 <div align="center">
