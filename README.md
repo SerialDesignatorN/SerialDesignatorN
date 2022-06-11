@@ -30,6 +30,9 @@ Currently, aim is to become a globally competent individual with **programming s
 
 ![zeans stats](https://github-readme-stats.vercel.app/api?username=zeankundev&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeankundev&layout=compact)
+ <a href="https://discord.com/users/793983601288544286">
+  <img src="https://lanyard-profile-readme.vercel.app/api/793983601288544286?idleMessage=i%20forgor%20💀" width="50%" align="left" />
+</a>
 
 
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeankundev" alt="Github Streak Stats"> -->
