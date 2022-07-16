@@ -75,6 +75,16 @@ Connect with me<img src="Assets/Handshake.gif" height="32px">
 
 </div>
 
+# FAQ about me
+- **What games do you play mostly?**
+> Team Fortress 2, Mobile Legends, Stumble Guys
+- **Most favorite programming language?**
+> C++, JS, HTML, CSS, React
+- **Are you a weeb? If yes, what are your favorite animes?**
+> Yes. TBHK (Hanako-kun), Himouto! Umaru Chan!
+- **Any games that you wanna develop right now?**
+> Yes. It's called Cosplay Simulator. I will be using Unity and Bolt
+
 <br>
 
 plus, dont copy paste this command to ur terminal, or else, something will happen 😇
