@@ -9,7 +9,7 @@
 
 -   🤗 I'm an junior developer!
 -   🔭 I'm currently working on my Competitive Coding Skills.
--   🌱 I'm currently learning _C++ and React Native_ 
+-   🌱 I'm currently learning _C++_ 
 -   💬 Ask me about JavaScript, C#, Java, React.js, HTML.
 -   📫 How to reach me: 
     
@@ -18,7 +18,7 @@
 
 ### About Me
 
-I am working on my **Projects** and **development software**. My interest lies in **Javascript**, **Web Development**, **App Development with React.js** **Desktop Development with C# and .NET**.
+I am working on my **Projects** and **development software**. My interest lies in **Javascript**, **Web Development**, **App Development with React.js** **Desktop Development Electron.js**.
 
 <!-- I have the **attitude** of a learner, the **courage** of an entrepreneur and the **thinking** of an optimist, engraved inside me. I wish to be a leader in my community of people and have an *innate desire* to contribute to **environment** and **society**. -->
 
@@ -45,7 +45,7 @@ Currently, aim is to become a globally competent individual with **programming s
 
 ## Some Of My Projects
 <p align="center">
-<a href="https://github.com/zeankundev/suside">
+<a href="https://github.com/zeankundev/graycrown">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=zeankundev&repo=suside" />
 </a>
 <a href="https://github.com/zeankundev/NextPay">
@@ -66,6 +66,10 @@ Currently, aim is to become a globally competent individual with **programming s
 <br>
 
 <div align="center">
+<br>
+
+
+
 
 <h2>
 Connect with me<img src="Assets/Handshake.gif" height="32px">
