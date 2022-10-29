@@ -77,6 +77,9 @@ Connect with me<img src="Assets/Handshake.gif" height="32px">
 
  [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/zeankundev) [<img src="Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:zeanfender11@gmail.com) [<img src="Assets/Discord-Logo-Color.svg" alt="Discord logo" height="32">](https://discord.gg/2cJBQrdZkm) [<img src="https://upload.wikimedia.org/wikipedia/sco/thumb/9/9f/Twitter_bird_logo_2012.svg/1200px-Twitter_bird_logo_2012.svg.png" alt="twitter" height="32">](https://twitter.com/ZeanKunDev) [pls click me](https://bit.ly/3kmEhmP) 
 
+ 
+ <h2>Donate me on Trakteer!</h2>
+<a href="https://trakteer.id/zeankundev" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-1.png" style="border:0px;height:40px;" alt="Trakteer Saya" height="40"></a>
 </div>
 
 # FAQ about me
