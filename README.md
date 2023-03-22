@@ -88,7 +88,7 @@ Connect with me<img src="Assets/Handshake.gif" height="32px">
 - **Most favorite programming language?**
 > C++, JS, HTML, CSS, React
 - **Are you a weeb? If yes, what are your favorite animes?**
-> Yes. TBHK (Hanako-kun), Himouto! Umaru Chan! And the upcoming Genshin Anime that was announced by miHoYo!
+> Yes. It's Suzume no Tojimari.
 - **Any games that you wanna develop right now?**
 > Yes. It's called Cosplay Simulator. I will be using Unity and Bolt
 
