@@ -7,10 +7,10 @@
 </p> -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zeankundev" alt="kkanekii"/> </p>
 
--   🤗 I'm an junior developer!
+-   🤗 I'm an junior developer, Software and Hardware Engineer!
 -   🔭 I'm currently working on my Competitive Coding Skills.
--   🌱 I'm currently learning _C++_ 
--   💬 Ask me about JavaScript, C#, Java, React.js, HTML.
+-   🌱 I'm currently learning _C++, Scala_ 
+-   💬 Ask me about JavaScript, C#, Java, React.js, HTML, Python, Rust.
 -   📫 How to reach me: 
     
     - <a href="mailto:zeanfender11@gmail.com">Email</a>
@@ -18,11 +18,11 @@
 
 ### About Me
 
-I am working on my **Projects** and **development software**. My interest lies in **Javascript**, **Web Development**, **App Development with React.js** **Desktop Development Electron.js**.
+I am working on my **Projects**, **development software**, **productivity software** and **computer boards!**. My interest lies in **Javascript**, **Web Development**, **App Development with React.js**, **Desktop Development Electron.js**, **Video Editing Creating with MLT** and **Computer Engineering with EasyEDA**.
 
 <!-- I have the **attitude** of a learner, the **courage** of an entrepreneur and the **thinking** of an optimist, engraved inside me. I wish to be a leader in my community of people and have an *innate desire* to contribute to **environment** and **society**. -->
 
-Currently, aim is to become a globally competent individual with **programming skills** along with **design skills**.
+Currently, aim is to become a globally competent individual with **programming skills** along with **design skills** and **engineering skills**.
 
 <!-- <p align="center"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tusharnankani&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909"> </p> -->
 
@@ -84,13 +84,14 @@ Connect with me<img src="Assets/Handshake.gif" height="32px">
 
 # FAQ about me
 - **What games do you play mostly?**
-> Team Fortress 2, Mobile Legends, Stumble Guys, Genshin Impact
+> VALORANT, Stumble Guys, osu!, Roblox
 - **Most favorite programming language?**
 > C++, JS, HTML, CSS, React
 - **Are you a weeb? If yes, what are your favorite animes?**
-> Yes. It's Suzume no Tojimari.
+> Sadly, not anymore :(
 - **Any games that you wanna develop right now?**
 > Yes. It's called Cosplay Simulator. I will be using Unity and Bolt
+- **Any more questions to ask with me? Contact me on _ThatYummyTofu#8863_ on Discord**
 
 <br>
 
