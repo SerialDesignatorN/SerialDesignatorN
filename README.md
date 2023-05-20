@@ -20,9 +20,16 @@
 
 I am working on my **Projects**, **development software**, **productivity software** and **computer boards!**. My interest lies in **Javascript**, **Web Development**, **App Development with React.js**, **Desktop Development Electron.js**, **Video Editing Creating with MLT** and **Computer Engineering with EasyEDA**.
 
+Currently, aim is to become a globally competent individual with **programming skills** along with **design skills** and **engineering skills**.
+
+### My Achievements:
+- Won the 2023 HKICO Heat Round Secondary 1 (Python): Zean Fender Isnomo.
+
+![image](https://github.com/zeankundev/zeankundev/assets/58360911/4aff522b-ab03-4874-b275-abfd9e252bf8)
+
+
 <!-- I have the **attitude** of a learner, the **courage** of an entrepreneur and the **thinking** of an optimist, engraved inside me. I wish to be a leader in my community of people and have an *innate desire* to contribute to **environment** and **society**. -->
 
-Currently, aim is to become a globally competent individual with **programming skills** along with **design skills** and **engineering skills**.
 
 <!-- <p align="center"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tusharnankani&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909"> </p> -->
 
