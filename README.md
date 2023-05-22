@@ -100,6 +100,10 @@ Connect with me<img src="Assets/Handshake.gif" height="32px">
 > Yes. It's called Cosplay Simulator. I will be using Unity and Bolt
 - **Any more questions to ask with me? Contact me on _ThatYummyTofu#8863_ on Discord**
 
+# Typically (un)neccesarry stuffs
+- My VALORANT crosshair (suitable for players that suffer ADHD or level 4 autism, like me)
+later
+
 <br>
 
 plus, dont copy paste this command to ur terminal, or else, something will happen 😇
