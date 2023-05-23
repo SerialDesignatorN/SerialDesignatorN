@@ -103,7 +103,10 @@ Connect with me<img src="Assets/Handshake.gif" height="32px">
 
 # Typically (un)neccesarry stuffs
 - My VALORANT crosshair (suitable for players that suffer ADHD or level 4 autism, like me)
-later
+
+```
+0;P;c;1;t;2;o;1;0v;7;0o;0;0a;1;1b;0
+```
 
 <br>
 
