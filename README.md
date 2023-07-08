@@ -1,11 +1,13 @@
 <!--<h1 align="center"> <a href="https://tusharnankani.github.io/about/" ><img src="Assets/portfolio.gh.png" alt="about-ss"> </a>--> 
- 
- <br > Welcome to my GitHub! 😇</h1>
+> ## Why not? You're nothing but a prostitute!
+> <small>- Kai (Jernelle Oh, Crimewatch 2013 Ep3 - Gang Clash)</small>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=zeankundev" alt="kkanekii"/> </p>
+Welcome to my GitHub! 😇</h1>
 
 <!-- <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
 </p> -->
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=zeankundev" alt="kkanekii"/> </p>
 
 -   🤗 I'm an junior developer, Software and Hardware Engineer!
 -   🔭 I'm currently working on my Competitive Coding Skills.
