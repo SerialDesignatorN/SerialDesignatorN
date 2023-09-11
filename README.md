@@ -2,7 +2,7 @@
 > ## Why not? You're nothing but a prostitute!
 > <small>- Kai (Jernelle Oh, Crimewatch 2013 Ep3 - Gang Clash)</small>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=zeankundev" alt="kkanekii"/> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=zeankundev" alt="kkanekii"/> <img src="https://img.shields.io/badge/Current_Waifu-Killjoy-yellow" alt="kkanekii"/> </p>
 Welcome to my GitHub! 😇</h1>
 
 <!-- <p align="center">
