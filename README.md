@@ -1,6 +1,6 @@
 <!--<h1 align="center"> <a href="https://tusharnankani.github.io/about/" ><img src="Assets/portfolio.gh.png" alt="about-ss"> </a>--> 
-> ## Why not? You're nothing but a prostitute!
-> <small>- Kai (Jernelle Oh, Crimewatch 2013 Ep3 - Gang Clash)</small>
+> ## You see 4 people chasing you, you’ll also run, right?
+> <small>- Jeron (***actor unknown***, [Crimewatch 2018 Ep4 - Voluntarily Causing Grievious Hurt](https://www.youtube.com/watch?v=mqW1HjIAq8E&ab_channel=Entertainment-Mediacorp))</small>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zeankundev" alt="kkanekii"/> <img src="https://img.shields.io/badge/Current_Waifu-Killjoy-yellow" alt="kkanekii"/> </p>
 Welcome to my GitHub! 😇</h1>
