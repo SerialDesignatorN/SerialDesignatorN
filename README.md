@@ -1,6 +1,6 @@
 <!--<h1 align="center"> <a href="https://tusharnankani.github.io/about/" ><img src="Assets/portfolio.gh.png" alt="about-ss"> </a>--> 
-> ## I'm a dictionary and you'd better believe it!	
-> <small>- Book (BFDI) (***Michael Huang (+3 semitones)***, [Wiki here](https://battlefordreamisland.fandom.com/wiki/Book)</small>
+> ## hey <img src="Assets/tadc-censor.png" width="50"> wanna see me speedbridge
+> <small>- You know, <a href="https://knowyourmeme.com/memes/hey-shitass">the <img src="Assets/tadc-censor.png" width="50"> meme.</a></small>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zeankundev" alt="kkanekii"/> <img src="https://img.shields.io/badge/Current_Waifu-Killjoy-yellow" alt="kkanekii"/> </p>
 Welcome to my GitHub! 😇</h1>
@@ -11,7 +11,7 @@ Welcome to my GitHub! 😇</h1>
 
 -   🤗 I'm an junior developer, Software and Hardware Engineer!
 -   🔭 I'm currently working on my Competitive Coding Skills.
--   🌱 I'm currently learning _C++, Scala_ 
+-   🌱 I'm currently learning _how to properly make backends_ 
 -   💬 Ask me about JavaScript, C#, Java, React.js, HTML, Python, Rust.
 -   📫 How to reach me: 
     
