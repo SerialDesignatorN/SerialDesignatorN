@@ -2,7 +2,7 @@
 > ## hey <img src="Assets/tadc-censor.png" width="50"> wanna see me speedbridge
 > <small>- You know, <a href="https://knowyourmeme.com/memes/hey-shitass">the <img src="Assets/tadc-censor.png" width="50"> meme.</a></small>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=zeankundev" alt="kkanekii"/> <img src="https://img.shields.io/badge/Current_Waifu-Killjoy-yellow" alt="kkanekii"/> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=zeankundev" alt="kkanekii"/> </p>
 Welcome to my GitHub! 😇</h1>
 
 <!-- <p align="center">
@@ -27,7 +27,7 @@ Currently, aim is to become a globally competent individual with **programming s
 ### My Achievements:
 - Won the 2023 HKICO Heat Round Secondary 1 (Python): Zean Fender Isnomo.
 
-![image](https://github.com/zeankundev/zeankundev/assets/58360911/4aff522b-ab03-4874-b275-abfd9e252bf8)
+![image](https://github.com/SerialDesignatorN/SerialDesignatorN/assets/58360911/4aff522b-ab03-4874-b275-abfd9e252bf8)
 
 
 <!-- I have the **attitude** of a learner, the **courage** of an entrepreneur and the **thinking** of an optimist, engraved inside me. I wish to be a leader in my community of people and have an *innate desire* to contribute to **environment** and **society**. -->
@@ -37,8 +37,8 @@ Currently, aim is to become a globally competent individual with **programming s
 
 <p align="center">
 
-![zeans stats](https://github-readme-stats.vercel.app/api?username=zeankundev&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeankundev&layout=compact)
+![zeans stats](https://github-readme-stats.vercel.app/api?username=SerialDesignatorN&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SerialDesignatorN&layout=compact)
  <a href="https://discord.com/users/793983601288544286">
   <img src="https://lanyard-profile-readme.vercel.app/api/793983601288544286?idleMessage=i%20forgor%20💀" width="50%" align="left" />
 </a>
@@ -54,10 +54,10 @@ Currently, aim is to become a globally competent individual with **programming s
 
 ## Some Of My Projects
 <p align="center">
-<a href="https://github.com/zeankundev/graycrown">
+<a href="https://github.com/SerialDesignatorN/Graycrown">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=zeankundev&repo=graycrown" />
 </a>
-<a href="https://github.com/zeankundev/NextPay">
+<a href="https://github.com/NextSystemsInc/NextPay">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=zeankundev&repo=NextPay"/>
 </a>
 </p>
@@ -85,7 +85,7 @@ Currently, aim is to become a globally competent individual with **programming s
 Connect with me<img src="Assets/Handshake.gif" height="32px">
 </h2>
 
- [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/zeankundev) [<img src="Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:zeanfender11@gmail.com) [<img src="Assets/Discord-Logo-Color.svg" alt="Discord logo" height="32">](https://discord.gg/2cJBQrdZkm) [<img src="https://upload.wikimedia.org/wikipedia/sco/thumb/9/9f/Twitter_bird_logo_2012.svg/1200px-Twitter_bird_logo_2012.svg.png" alt="twitter" height="32">](https://twitter.com/ZeanKunDev) [pls click me](https://bit.ly/3kmEhmP) 
+ [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/SerialDesignatorN) [<img src="Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:zeanfender11@gmail.com) [<img src="Assets/Discord-Logo-Color.svg" alt="Discord logo" height="32">](https://discord.gg/2cJBQrdZkm) [<img src="https://upload.wikimedia.org/wikipedia/sco/thumb/9/9f/Twitter_bird_logo_2012.svg/1200px-Twitter_bird_logo_2012.svg.png" alt="twitter" height="32">](https://twitter.com/ZeanKunDevRil) [pls click me](https://bit.ly/3kmEhmP) 
 
  
  <h2>Donate me on Trakteer!</h2>
