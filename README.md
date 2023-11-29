@@ -55,10 +55,10 @@ Currently, aim is to become a globally competent individual with **programming s
 ## Some Of My Projects
 <p align="center">
 <a href="https://github.com/SerialDesignatorN/Graycrown">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=zeankundev&repo=graycrown" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SerialDesignatorN&repo=Graycrown" />
 </a>
 <a href="https://github.com/NextSystemsInc/NextPay">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=zeankundev&repo=NextPay"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=NextSystemsInc&repo=NextPay"/>
 </a>
 </p>
 
