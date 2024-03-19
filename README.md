@@ -10,24 +10,26 @@ Welcome to my GitHub! 😇</h1>
 </p> -->
 
 -   🤗 I'm an junior developer, Software and Hardware Engineer!
+-   💻 I'm an Arduino maniac!
 -   🔭 I'm currently working on my Competitive Coding Skills.
 -   🌱 I'm currently learning _how to properly make backends_ 
--   💬 Ask me about JavaScript, C#, Java, React.js, HTML, Python, Rust.
+-   💬 Ask me about JavaScript, C#, Java, React.js, HTML, Python, Rust, Arduino.
 -   📫 How to reach me: 
     
     - <a href="mailto:zeanfender11@gmail.com">Email</a>
-    - <a href="https://discord.gg/pbYzGWF9Q4">Discord</a>
+    - <a href="https://discord.gg/pbYzGWF9Q4">Discord <i>(I'm always active here)</i></a>
 
 ### About Me
 
-I am working on my **Projects**, **development software**, **productivity software** and **computer boards!**. My interest lies in **Javascript**, **Web Development**, **App Development with React.js**, **Desktop Development Electron.js**, **Video Editing Creating with MLT** and **Computer Engineering with EasyEDA**.
+I am working on my **Projects**, **development software**, **productivity software** and **computer boards!**. My interest lies in **Javascript**, **Web Development**, **App Development with React.js**, **Desktop Development Electron.js**, **Video Editing Creating with MLT**, **PCB Engineering with KiCad** and **STEM engineering and research with Arduino**.
 
 Currently, aim is to become a globally competent individual with **programming skills** along with **design skills** and **engineering skills**.
 
 ### My Achievements:
 - Won the 2023 HKICO Heat Round Secondary 1 (Python): Zean Fender Isnomo.
+- Nominated as Stage 3 participant (pre-final) on OPSI 2023
 
-![image](https://github.com/SerialDesignatorN/SerialDesignatorN/assets/58360911/4aff522b-ab03-4874-b275-abfd9e252bf8)
+![image](https://github.com/zeankundev/zeankundev/assets/58360911/4aff522b-ab03-4874-b275-abfd9e252bf8)
 
 
 <!-- I have the **attitude** of a learner, the **courage** of an entrepreneur and the **thinking** of an optimist, engraved inside me. I wish to be a leader in my community of people and have an *innate desire* to contribute to **environment** and **society**. -->
@@ -37,8 +39,8 @@ Currently, aim is to become a globally competent individual with **programming s
 
 <p align="center">
 
-![zeans stats](https://github-readme-stats.vercel.app/api?username=SerialDesignatorN&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SerialDesignatorN&layout=compact)
+![zeans stats](https://github-readme-stats.vercel.app/api?username=zeankundev&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeankundev&layout=compact)
  <a href="https://discord.com/users/793983601288544286">
   <img src="https://lanyard-profile-readme.vercel.app/api/793983601288544286?idleMessage=i%20forgor%20💀" width="50%" align="left" />
 </a>
@@ -54,7 +56,7 @@ Currently, aim is to become a globally competent individual with **programming s
 
 ## Some Of My Projects
 <p align="center">
-<a href="https://github.com/SerialDesignatorN/Graycrown">
+<a href="https://github.com/zeankundev/Graycrown">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SerialDesignatorN&repo=Graycrown" />
 </a>
 <a href="https://github.com/NextSystemsInc/NextPay">
