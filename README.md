@@ -10,6 +10,7 @@ Welcome to my GitHub! 😇</h1>
 </p> -->
 
 -   🤗 I'm an junior developer, Software and Hardware Engineer!
+-   🏫 Currently on 9th grade (will graduate soon)
 -   💻 I'm the lead engineer and lead schematic and PCB designer of Radianite!
 -   🔭 I'm currently working on my Competitive Coding Skills.
 -   🌱 I'm currently learning _how to properly make backends_ 
