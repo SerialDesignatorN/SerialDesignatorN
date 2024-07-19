@@ -1,6 +1,6 @@
 <!--<h1 align="center"> <a href="https://tusharnankani.github.io/about/" ><img src="Assets/portfolio.gh.png" alt="about-ss"> </a>--> 
-> ## hey <img src="Assets/tadc-censor.png" width="50"> wanna see me speedbridge
-> <small>- You know, <a href="https://knowyourmeme.com/memes/hey-shitass">the <img src="Assets/tadc-censor.png" width="50"> meme.</a></small>
+> ## Seven limited cream puffs, please.
+> <small>- Mash Burnedead (Mashle)</small>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zeankundev" alt="kkanekii"/> </p>
 Welcome to my GitHub! 😇</h1>
@@ -10,7 +10,7 @@ Welcome to my GitHub! 😇</h1>
 </p> -->
 
 -   🤗 I'm an junior developer, Software and Hardware Engineer!
--   🏫 Currently on 9th grade (will graduate soon)
+-   🏫 I am a student of SMAN 1 Malang currently on grade 10
 -   💻 I'm the lead engineer and lead schematic and PCB designer of Radianite!
 -   🔭 I'm currently working on my Competitive Coding Skills.
 -   🌱 I'm currently learning _how to properly make backends_ 
@@ -98,14 +98,14 @@ Connect with me<img src="Assets/Handshake.gif" height="32px">
 
 # FAQ about me
 - **What games do you play mostly?**
-> VALORANT, Stumble Guys, osu!, Roblox
+> MLBB
 - **Most favorite programming language?**
 > C++, JS, HTML, CSS, React
 - **Are you a weeb? If yes, what are your favorite animes?**
-> Sadly, not anymore :(
+> Mashle! I usually watch it on Netflix.
 - **Any games that you wanna develop right now?**
 > Yes. It's called Cosplay Simulator. I will be using Unity and Bolt
-- **Any more questions to ask with me? Contact me on _ThatYummyTofu#8863_ on Discord**
+- **Any more questions to ask with me? Contact me on _zeankun.dev_ on Discord**
 
 # Typically (un)neccesarry stuffs
 - My VALORANT crosshair (suitable for players that suffer ADHD or level 4 autism, like me)
