@@ -1,6 +1,6 @@
 <!--<h1 align="center"> <a href="https://tusharnankani.github.io/about/" ><img src="Assets/portfolio.gh.png" alt="about-ss"> </a>--> 
-> ## Seven limited cream puffs, please.
-> <small>- Mash Burnedead (Mashle)</small>
+> ## Dream big, make it happen.
+> <small>- Gekko (VALORANT)</small>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zeankundev" alt="kkanekii"/> </p>
 Welcome to my GitHub! 😇</h1>
@@ -26,6 +26,14 @@ I am working on my **Projects**, **development software**, **productivity softwa
 
 Currently, aim is to become a globally competent individual with **programming skills** along with **design skills** and **engineering skills**.
 
+### My Rig (as of October 2023)
+- Lenovo ThinkPad T480, with the following specs
+  
+  - CPU: Intel Core i5-8350U vPro
+  - RAM: 8GB DDR4 (planning to upgrade to 16GB soon)
+  - SSD: Intel 256GB NVME drive (M.2)
+  - GPU: Intel UHD 620
+  - OS: Windows 10 Pro 22H2
 ### My Achievements:
 - Won the 2023 HKICO Heat Round Secondary 1 (Python): Zean Fender Isnomo.
 - Nominated as Stage 3 participant (pre-final) on OPSI 2023
