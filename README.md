@@ -26,14 +26,21 @@ I am working on my **Projects**, **development software**, **productivity softwa
 
 Currently, aim is to become a globally competent individual with **programming skills** along with **design skills** and **engineering skills**.
 
-### My Rig (as of October 2024)
+### My Setup (as of October 2024)
 - Lenovo ThinkPad T480, with the following specs
   
   - CPU: Intel Core i5-8350U vPro
   - RAM: 8GB DDR4 (planning to upgrade to 16GB soon)
   - SSD: Intel 256GB NVME drive (M.2)
   - GPU: Intel UHD 620
+  - Mouse: Logitech G102 @ 1600-3500 DPI
   - OS: Windows 10 Pro 22H2
+#### Setup History so far (2015-now)
+<small><i>Might not be neccessary to just flex my setup, and a quirky idea.</i></small>
+- 2015: Lenovo ThinkPad W520 (I believe, first self owned ThinkPad)
+- 2018: Lenovo ThinkPad T510 (sluggish af, torn down)
+- 2023: Lenovo ThinkPad T430 (bricked as of Oct 2024)
+- 2024: Lenovo ThinkPad T480 (current, in use)
 ### My Achievements:
 - Won the 2023 HKICO Heat Round Secondary 1 (Python): Zean Fender Isnomo.
 - Nominated as Stage 3 participant (pre-final) on OPSI 2023
