@@ -26,7 +26,7 @@ I am working on my **Projects**, **development software**, **productivity softwa
 
 Currently, aim is to become a globally competent individual with **programming skills** along with **design skills** and **engineering skills**.
 
-### My Rig (as of October 2023)
+### My Rig (as of October 2024)
 - Lenovo ThinkPad T480, with the following specs
   
   - CPU: Intel Core i5-8350U vPro
@@ -89,6 +89,8 @@ Currently, aim is to become a globally competent individual with **programming s
 
 <div align="center">
 <br>
+
+
 
 
 
