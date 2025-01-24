@@ -24,7 +24,15 @@ Welcome to my GitHub! 😇</h1>
 
 I am working on my **Projects**, **development software**, **productivity software** and **computer boards!**. My interest lies in **Javascript**, **Web Development**, **App Development with React.js**, **Desktop Development Electron.js**, **Video Editing Creating with MLT**, **PCB Engineering with KiCad** and **STEM engineering and research with Arduino**.
 
-Currently, aim is to become a globally competent individual with **programming skills** along with **design skills** and **engineering skills**.
+Currently, my aim is to become a globally competent individual with **programming skills** along with **design skills** and **engineering skills**.
+
+### My Productivity Tools
+- Notion
+- Figma
+- Typeform
+- KiCad
+- VS Code
+- bash
 
 ### My Setup (as of October 2024)
 - Lenovo ThinkPad T480, with the following specs
@@ -34,7 +42,7 @@ Currently, aim is to become a globally competent individual with **programming s
   - SSD: Intel 256GB NVME drive (M.2)
   - GPU: Intel UHD 620
   - Mouse: Logitech G102 @ 1600-3500 DPI
-  - OS: Windows 10 Pro 22H2
+  - OS: Kubuntu 24.10
 #### Setup History so far (2015-now)
 <small><i>Might not be neccessary to just flex my setup, and a quirky idea.</i></small>
 - 2015: Lenovo ThinkPad W520 (I believe, first self owned ThinkPad)
